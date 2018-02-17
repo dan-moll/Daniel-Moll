@@ -1,1 +1,3 @@
-git kraken folder
+- **Name**: Daniel Moll
+- **USC ID**: 3763168880
+- **Email**: molld@usc.edu
